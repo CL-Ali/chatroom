@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173661912669",
+    "project_id": "chatroom-clali",
+    "storage_bucket": "chatroom-clali.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173661912669:android:a8f52e21276125d90557b4",
+        "android_client_info": {
+          "package_name": "com.cl_ali.chatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173661912669-n8mohrf3988djltf9mpvcakeh7t8phsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz6NsFt6AVyLvMe0vdMBykGZ7D3BIa-b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173661912669-n8mohrf3988djltf9mpvcakeh7t8phsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
